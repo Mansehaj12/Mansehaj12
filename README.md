@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mansehaj12/Mansehaj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Mansehaj Preet Singh
+### Student & Aspiring Developer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, Node.js, SQL**
+- 💻 I work on projects like Web apps, ML models, and automation tools
+- 🚀 My tech stack: JavaScript, Python, C++, SQL, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Mansehaj12&theme=dark)
+
+## 💫 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
